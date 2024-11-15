@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "name": "John",
+            "age": 30,
+            "city": "New York",
+            "active": true
+        },
+        {
+            "name": "Jane",
+            "age": 25,
+            "city": "Los Angeles",
+            "active": false
+        }
+    ]
+}
